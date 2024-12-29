@@ -1,0 +1,6 @@
+{
+    "modelId": "meta.llma2-70b-chat-v1",
+    "contentType": "application/json",
+    "accept": "application/json",
+    "body": "{\"prompt\":\"[INST]You are a very intelligent bot}"
+}
